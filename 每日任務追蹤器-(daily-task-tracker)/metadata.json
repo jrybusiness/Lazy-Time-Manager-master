@@ -1,0 +1,5 @@
+{
+  "name": "每日任務追蹤器 (Daily Task Tracker)",
+  "description": "一個簡單的應用程式，幫助您追蹤每日任務、建立習慣並保持連續紀錄。",
+  "requestFramePermissions": []
+}
